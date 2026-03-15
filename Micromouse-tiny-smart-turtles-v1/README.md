@@ -1,6 +1,6 @@
 # Micromouse TST - Tiny Smart Turtles (Version 1)
 
-**Tiny Smart Turtles** is an Arduino-based Micromouse project that implements the classic BFS Floodfill algorithm for autonomous maze solving. The system incorporates infrared sensors for wall detection, motor encoders for distance tracking, and a PID controller to ensure straight movement and precision turns.
+**Tiny Smart Turtles** is a Micromouse project that implements the classic BFS Floodfill algorithm for autonomous maze solving. The system incorporates infrared sensors for wall detection, motor encoders for distance tracking, and a PID controller to ensure straight movement and precision turns.
 
 ![Robot Image](pics/mimao.jpg)
 
